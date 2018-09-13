@@ -1,5 +1,8 @@
 _repo: Virran-varrelta-Runoja_51327
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kivijärvi, Erkki
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46143
     wikipedia: https://fi.wikipedia.org/wiki/Erkki_Kivij%C3%A4rvi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51327#Virran-varrelta-Runoja
 gutenberg_issued: '2016-02-29'
 gutenberg_type: Text
 identifiers:
